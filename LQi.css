@@ -1,0 +1,46 @@
+.waterslide-bg {
+  background-image: url('images/main.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;;
+}
+
+body {
+    background-color: #171719!important;
+    color: #e8e8e8!important;
+
+  }
+
+header {
+    color: #172022 !important;
+}
+
+
+.z-index-0 {
+      z-index: 0;
+  position: relative;
+
+}
+
+.button-light {
+
+    border: 1px solid #e8e8e8!important;
+    color: #e8e8e8!important;
+}
+
+
+.email-text {
+  color: #000000;
+}
+
+
+
+
+
+
+#modalImage {
+    border-radius: 4px;
+}
+.grid-article-outline {
+    border-radius: 5px;
+}
+
