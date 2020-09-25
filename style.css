@@ -1722,10 +1722,21 @@ p {
   }
   .image-spacer {
     padding-top: 30%;
+    }
+    .block-with-image {
+        min-height: inherit !important;
+
+    }
+  
+
 }
 
-
+@media (max-width:720px) {
+    .logo-padding-sticky {
+        padding-top: 45px;
+    }
 }
+
 
 .no-margin-top {
     margin-top: 0px !important;
