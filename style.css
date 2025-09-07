@@ -1705,13 +1705,12 @@ p {
     padding-bottom: 0px!important;
 }
 .outline-sign-up-box {
-  /*  background-color: #81cadb; */
-  border: 1px solid  black;
-      border-radius: 25px;
-      padding-top: 30px;
-      padding-bottom: 5px;
-      padding-left: 45px;
-      padding-right: 45px;
+    border: 1px solid  black;
+    border-radius: 25px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
 }
 
 .shift-up-image {
