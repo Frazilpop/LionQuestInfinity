@@ -1625,6 +1625,7 @@ video {
     }
 }
 
+
 .bold-menu-item {
     font-family:  "Nunito",'futura_md_btmedium';
     font-weight: 700;
@@ -1738,10 +1739,43 @@ p {
     position: absolute;
     top: 20%;
 }
+.shift-up-video {
+    position: absolute;
+    top: 7%;
+}
+@media (max-width:1300px) {
+  .shift-up-video {
+        top: 0%;
+  }
+}
+@media (max-width:960px) {
+  .shift-up-video {
+        top: -7%;
+  }
+}
+@media (max-width:600px) {
+  .shift-up-video {
+        top: -15%;
+    }
+}
+@media (max-width:480px) {
+  .shift-up-video {
+        top: -19%;
+    }
+}
+@media (min-width: 1680px) {
 
-
+  .shift-up-video {
+    object-fit: cover;
+  }
+}
 
 .image-spacer {
+    width: 100%;
+    padding-top: 30%;
+}
+
+.image-spacer-LQi {
     width: 100%;
     padding-top: 30%;
 }
@@ -1749,12 +1783,19 @@ p {
   .image-spacer {
     padding-top: 20%;
   }
+  .image-spacer-LQi {
+    padding-top: 20%;
+  }
 }
 @media (min-width:1900px) {
   .image-spacer {
     padding-top: 35%;
   }
+  .image-spacer-LQi {
+    padding-top: 27%;
+  }
 }
+
 .curved-edges {
     border-radius: 15px;
 }
