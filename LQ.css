@@ -27,7 +27,21 @@ html { margin:0; padding:0; }
       padding-bottom: 0px !important;
   }
 }
-
+@media (max-width:880px) {
+  .logo-padding-LQ {
+      padding-bottom: 0px !important;
+  }
+}
+@media (max-width: 880px) {
+  .mobile-block-button {
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+  }
+  .button-rh {
+    margin-top: 10px;
+  }
+}
 .top-gif-padding-LQ {
   padding-top: 15px;
 }
@@ -39,6 +53,12 @@ html { margin:0; padding:0; }
 #container2 {width:1000px; min-height:800px;  margin:0 auto; padding: 0px 50px; background:url('images/cbg.png') centre ; }
 
 #container3 { width:1000px; text-align:center;  margin:0 auto; }
+
+@media (max-width: 1000px) {
+  #container3 {
+    width: 100%;
+  }
+}
 
 
 /* Headers and text */
