@@ -28,12 +28,17 @@ html { margin:0; padding:0; }
 @media (max-width:880px) {
   .padding-bottom-LQ-logo {
       padding-bottom: 0px !important;
+      padding-top: 40px;
   }
 
   .logo-padding-LQ {
       padding-bottom: 0px !important;
   }
-  .mobile-block-button {
+  .no-padding-bottom-mobile-LQ {
+          padding-bottom: 0px !important;
+
+  }
+  .mobile-block-button-LQ {
     margin-left: 0px;
     margin-right: 0px;
     max-width: 100%;
