@@ -96,8 +96,8 @@ h2 { font-size:1.3em; color:#f5f5f5; text-align:center; margin:30px 0px 0px 0px;
 h3 { font-size:1.5em; color:#444; margin:20px 0px 30px 0px; text-align:center; font-family: futura_md_btmedium, Arial, Helvetica, sans-serif; }
 h4 { font-size:1.5em; color:#444;  text-align:center; font-family: futura_md_btmedium, Arial, Helvetica, sans-serif; }
 h5 { font-size:1.5em; color:#444; margin:00px 0px 25px 0px; text-align:center; font-family: futura_md_btmedium, Arial, Helvetica, sans-serif; }
-h7 { font-size:1.2em  em; color:#f5f5f5; margin:0px 0px 0px 0px; text-align:center; font-family: futura_md_btmedium, Arial, Helvetica, sans-serif; }
-h8 { font-size:1.2em  em; color:#444; margin:0px 0px 0px 0px; text-align:center; font-family: futura_md_btmedium, Arial, Helvetica, sans-serif; }
+h7 { font-size:1.2em  em; color:#f5f5f5; margin:0px 0px 0px 0px;  font-family: futura_md_btmedium, Arial, Helvetica, sans-serif; }
+h8 { font-size:1.2em  em; color:#444; margin:0px 0px 0px 0px;  font-family: futura_md_btmedium, Arial, Helvetica, sans-serif; }
 
 .standardtext { margin: 0 auto 20px auto; width:850px; color:#333; font-family: futura_md_btmedium, Trebuchet MS, Arial, Helvetica, sans-serif;  }
 
